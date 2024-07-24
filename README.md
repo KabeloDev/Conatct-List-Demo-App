@@ -21,35 +21,27 @@ Contact List demo app made using asp.net web API for backend CRUD operations all
 
 <p align="center">
 Contact App web API: <br/>
-<img src="https://i.imgur.com/9RjE1IG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9RjE1IG.png" height="80%" width="80%" />
 <br />
 <br />
 Angular Contact App Front-end:  <br/>
-<img src="https://i.imgur.com/CpBvdJq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CpBvdJq.png" height="80%" width="80%" />
 <br />
 <br />
 MS SQL Server Database: <br/>
-<img src="https://i.imgur.com/BfeGEX3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BfeGEX3.png" height="80%" width="80%" />
 <br />
 <br />
 ASP.NET Web API Code:  <br/>
-<img src="https://i.imgur.com/JbmCgdQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JbmCgdQ.png" height="80%" width="80%" />
 <br />
 <br />
 Angular code:  <br/>
-<img src="https://i.imgur.com/QAzhAUV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QAzhAUV.png" height="80%" width="80%" />
 <br />
 <br />
 
 
 
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
