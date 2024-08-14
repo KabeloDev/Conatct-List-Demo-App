@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/rWyLvmVsAIg)
 
 <h2>Description</h2>
-Contact List demo app made using asp.net web API for backend CRUD operations allowing users to view, add and delete contacts. I'm currently still learning how to update user data on the front-end using Angular 17
+Contact List demo app made using asp.net web API for backend CRUD operations allowing users to view, add and delete contacts. 
 <br />
 
 
