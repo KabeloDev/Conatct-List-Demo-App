@@ -21,23 +21,23 @@ Contact List demo app made using asp.net web API for backend CRUD operations all
 
 <p align="center">
 Contact App web API: <br/>
-<img src="https://i.imgur.com/9RjE1IG.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/9RjE1IG.png" height="500%" width="100%" />
 <br />
 <br />
 Angular Contact App Front-end:  <br/>
-<img src="https://i.imgur.com/CpBvdJq.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/CpBvdJq.png" height="500%" width="100%" />
 <br />
 <br />
 MS SQL Server Database: <br/>
-<img src="https://i.imgur.com/BfeGEX3.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/BfeGEX3.png" height="500%" width="100%" />
 <br />
 <br />
 ASP.NET Web API Code:  <br/>
-<img src="https://i.imgur.com/JbmCgdQ.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/JbmCgdQ.png" height="500%" width="100%" />
 <br />
 <br />
 Angular code:  <br/>
-<img src="https://i.imgur.com/QAzhAUV.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/QAzhAUV.png" height="500%" width="100%" />
 <br />
 <br />
 
